@@ -31,4 +31,4 @@ async def on_message(message):
         paste = soup.find(class_="paste-content")
         await message.channel.send(f'{paste.txt}')
 
-client.run(os.getenv('ODk0MzEwMjM2MzEwMTEwMjcx.YVoJTw.-GmX7vKfhbgYL7Q9-EWv2sbgymc'))
+client.run(os.getenv('ахаха здесб ничего нет'))
